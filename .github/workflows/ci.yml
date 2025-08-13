@@ -58,4 +58,4 @@ jobs:
       - name: Run Python automation test
         run: |
           # Run the automation test
-          timeout 60s python test.py || echo "Automation test completed"
+          timeout 60s python test.py || echo "Automation test ompleted"
